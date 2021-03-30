@@ -18,6 +18,8 @@ Selection_all.R-- a catch-all app; can be used to show any of the above models
 
 BreedersEq.R-- the odd one out; illustrates the Breeders' Equation in quantitative genetics
 
+Worksheets of the same name give instructions and a small number of questions to work through.
+
 
 
 
